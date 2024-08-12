@@ -1,1 +1,1 @@
-Rock Paper Scissors game 
+Développement d'une application interactive de jeu 'Pierre-Feuille-Ciseaux', intégrant une logique décisionnelle pour évaluer les choix des utilisateurs et déterminer automatiquement le vainqueur en fonction des règles établies. L'interface utilisateur sera conçue pour offrir une expérience fluide et engageante, avec une gestion optimale des entrées et des résultats.
